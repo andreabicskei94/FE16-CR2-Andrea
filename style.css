@@ -147,16 +147,9 @@
 }
 
 .foods {
-    align-items: baseline;
-    height: 60px;
     list-style: none;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     background-color: black;
     background: rgba(0, 0, 0, 0.5);
-}
-
-.items {
-    padding-top: 5px;
-    color: white;
 }
